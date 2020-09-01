@@ -7,9 +7,9 @@ If you're here that probably means you are registered for an upcoming NGINX work
 Navigate to https://udf.f5.com/ and select ```Non-F5 Users```
 ![Non F5](images/udfloginnonf5.png "clever alt text")
 
-If this is your first time using UDF, you should have an email with a temporary password. Use that to login. 
+If this is your first time using UDF, you should have an email with a temporary password. Use that to login to UDF, but this will *not be the password to the VMs in the class!*. 
 
-If already have an account but you can't remember your password, simply reset it using your corporate email that you used to register for the workshop.
+If you already have an account but you can't remember your password, simply reset it using your corporate email that you used to register for the workshop.
 ![Non F5](images/udfloginreset.png "happens to the best of us")
 
 ### Step 2: Get into the test course
@@ -33,5 +33,5 @@ Now we just have to wait for the Jumpbox to finish booting. . .
 Make sure to select a small enough resolution to see the whole screen.
 ![Non F5](images/launchrdp.png "almost there")
 
-Accept the self-signed cert and login with user/user.
+Accept the self-signed cert, and your username and password will be `user` and `user`! (This is *not* your email & UDF password.)
 ![Non F5](images/useruser.png "rogerroger")
