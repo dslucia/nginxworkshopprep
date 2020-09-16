@@ -7,7 +7,11 @@ If you're here that probably means you are registered for an upcoming NGINX work
 ### Navigate to https://udf.f5.com/ and select ```Non-F5 Users```
 ![Non F5](images/udfloginnonf5.png "clever alt text")
 
-If this is your first time using UDF, you should have an email with a temporary password. Use that to login to UDF, but this will *not be the password to the VMs in the class!*. 
+If this is your first time using UDF, you should have an email with a temporary password. Use that to login to UDF, but this will *not be the password to the VMs in the class!* This email does sometimes end up in spam. 
+
+   * From: `noreply@registration.udf.f5.com` 
+   * Subj: **Welcome to F5's Unified Demonstration Framework**
+
 
 ### If you already have an account but you can't remember your password, simply reset it using your corporate email that you used to register for the workshop.
 ![Non F5](images/udfloginreset.png "happens to the best of us")
