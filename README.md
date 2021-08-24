@@ -1,23 +1,19 @@
 # NGINX Workshop pre-work
 ## Prep for your upcoming F5/NGINX workshop! 
 
-If you're here that probably means you are registered for an upcoming NGINX workshop. By taking the time to run through this exercise you are helping us save time during the workshop- we appreciate it.
+If you're here that probably means you are currently in, or registered for, an upcoming NGINX workshop. By taking the time to run through this exercise you are helping us save time during the workshop- we appreciate it.
 
 ## Step 0: If this is your first time in a Workshop
-Look for an email from **noreply@registration.udf.f5.com**. This will have your temporary password.
+Look for an email from **`noreply@registration.udf.f5.com`**. This will have your temporary password.
+![Ultra Super Important Invite email](images/megasuperimportantemail.png "Ultra Double Super Important Email, seriously")
 ### If you cannot find your invite email ("Welcome to F5's Unified Demonstration Framework") STOP
-These commonly get caught by spam filters. *Make sure to check your spam folder **and** your system's email Quarantine.*
-If you still cannot find your invite email, you either have not been invited to a 
+  * These commonly get caught by spam filters. *Make sure to check your spam folder **and** your system's email Quarantine.*
+  * If you still cannot find your invite email, you either have not been invited to a workshop or we have an incorrect email. Please get help from whoever sent you to this page.
 
 ## Step 1: Get yourself to UDF
 ### Navigate to https://udf.f5.com/ and select ```Non-F5 Users```
 ![Non F5](images/udfloginnonf5.png "clever alt text")
-
-If this is your first time using UDF, you should have an email with a temporary password. Use that to login to UDF, but this will *not be the password to the VMs in the class!* This email does sometimes end up in spam. 
-
-   * From: `noreply@registration.udf.f5.com` 
-   * Subj: **Welcome to F5's Unified Demonstration Framework**
-
+If this is your first time using UDF, use your temporary password to login, and go through all the readings of the fine prints. NOTE: this will *not be the password to the Jumphost or other VMs in the class!* 
 
 ### If you already have an account but you can't remember your password, simply reset it using your corporate email that you used to register for the workshop.
 ![Non F5](images/udfloginreset.png "happens to the best of us")
