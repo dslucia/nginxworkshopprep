@@ -3,6 +3,12 @@
 
 If you're here that probably means you are registered for an upcoming NGINX workshop. By taking the time to run through this exercise you are helping us save time during the workshop- we appreciate it.
 
+## Step 0: If this is your first time in a Workshop
+Look for an email from **noreply@registration.udf.f5.com**. This will have your temporary password.
+### If you cannot find your invite email ("Welcome to F5's Unified Demonstration Framework") STOP
+These commonly get caught by spam filters. *Make sure to check your spam folder **and** your system's email Quarantine.*
+If you still cannot find your invite email, you either have not been invited to a 
+
 ## Step 1: Get yourself to UDF
 ### Navigate to https://udf.f5.com/ and select ```Non-F5 Users```
 ![Non F5](images/udfloginnonf5.png "clever alt text")
